@@ -1,0 +1,74 @@
+Strategy/Quack/QuackBehavior.java
+ Strategy.Quack.QuackBehavior
+Strategy/Fly/FlyRocketPowered.java
+ Strategy.Fly.FlyRocketPowered
+Strategy/Fly/FlyWithWings.java
+ Strategy.Fly.FlyWithWings
+Strategy/Duck/Duck.java
+ Strategy.Duck.Duck
+Watcher/Display/Display.java
+ Watcher.Display.Display
+Watcher/Subject/Subject.java
+ Watcher.Subject.Subject
+Strategy/Quack/MuteQuack.java
+ Strategy.Quack.MuteQuack
+Strategy/Fly/FlyBehavior.java
+ Strategy.Fly.FlyBehavior
+Strategy/Quack/Squeak.java
+ Strategy.Quack.Squeak
+Strategy/Strategy.java
+ Strategy.Strategy
+Strategy/Duck/ModelDuck.java
+ Strategy.Duck.ModelDuck
+Watcher/Subject/WeatherData.java
+ Watcher.Subject.WeatherData
+Watcher/Observer/Observer.java
+ Watcher.Observer.Observer
+Strategy/Duck/MallardDuck.java
+ Strategy.Duck.MallardDuck
+Strategy/Quack/Quack.java
+ Strategy.Quack.Quack
+Strategy/Fly/FlyNoWay.java
+ Strategy.Fly.FlyNoWay
+Watcher/Display/CurrentConditionsDisplay.java
+ Watcher.Display.CurrentConditionsDisplay
+Watcher/Watcher.java
+ Watcher.Watcher
+Decorator/Main/HouseBlend.java
+ Decorator.Main.HouseBlend
+Decorator/Decorator.java
+ Decorator.Decorator
+Decorator/Decorators/Whip.java
+ Decorator.Decorators.Whip
+Decorator/Main/Beverage.java
+ Decorator.Main.Beverage
+Decorator/Main/Espresso.java
+ Decorator.Main.Espresso
+Decorator/Decorators/Mocha.java
+ Decorator.Decorators.Mocha
+Decorator/Decorators/CondimentDecorator.java
+ Decorator.Decorators.CondimentDecorator
+Decorator/Decorators/Ship.java
+ Decorator.Decorators.Ship
+Factory/Pizza/ChicagoStyleCheesePizza.java
+ Factory.Pizza.ChicagoStyleCheesePizza
+Factory/Factory.java
+ Factory.Factory
+Factory/Pizza/CheesePizza.java
+ Factory.Pizza.CheesePizza
+Factory/Pizza/VeggiePizza.java
+ Factory.Pizza.VeggiePizza
+Factory/Main/SimplePizzaFactory.java
+ Factory.Main.SimplePizzaFactory
+Factory/Main/PizzaStore.java
+ Factory.Main.PizzaStore
+Factory/Pizza/Pizza.java
+ Factory.Pizza.Pizza
+Factory/Pizza/NYStyleCheesePizza.java
+ Factory.Pizza.NYStyleCheesePizza
+Singleton/SingletonMain.java
+ Singleton.SingletonMain
+IsolateCall/IsolateCallMain.java
+ IsolateCall.IsolateCallMain
+Singleton/ChocolateBoiler.java
+ Singleton.ChocolateBoiler
