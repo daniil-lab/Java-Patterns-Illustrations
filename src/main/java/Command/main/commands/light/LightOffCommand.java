@@ -2,24 +2,25 @@ package Command.main.commands.light;
 
 import Command.main.Command;
 
-public class LightOnCommand implements Command {
-    Light light;
+public class LightOffCommand implements Command {
+    private Light light;
 
-    public LightOnCommand(Light light) {
+    public LightOffCommand(Light light) {
         this.light = light;
     }
 
+    @Override
     public void execute() {
-        this.light.lightOn();
+        this.light.lightOff();
     }
 
     @Override
     public String toString() {
-        return "LightOnCommand";
+        return "LightOffCommand";
     }
 
     @Override
     public void undo() {
-        this.light.lightOff();
+        this.light.lightOn();
     }
 }

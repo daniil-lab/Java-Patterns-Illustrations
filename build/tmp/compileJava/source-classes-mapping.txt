@@ -68,7 +68,27 @@ Factory/Pizza/NYStyleCheesePizza.java
  Factory.Pizza.NYStyleCheesePizza
 Singleton/SingletonMain.java
  Singleton.SingletonMain
-IsolateCall/IsolateCallMain.java
- IsolateCall.IsolateCallMain
 Singleton/ChocolateBoiler.java
  Singleton.ChocolateBoiler
+Command/main/commands/stereo/Stereo.java
+ Command.main.commands.stereo.Stereo
+Command/main/commands/light/Light.java
+ Command.main.commands.light.Light
+Command/main/commands/noCommand/NoCommand.java
+ Command.main.commands.noCommand.NoCommand
+Command/main/Command.java
+ Command.main.Command
+Command/main/commands/light/LightOnCommand.java
+ Command.main.commands.light.LightOnCommand
+Command/main/commands/light/LightOffCommand.java
+ Command.main.commands.light.LightOffCommand
+Command/main/commands/stereo/StereoOffCommand.java
+ Command.main.commands.stereo.StereoOffCommand
+Command/main/commands/stereo/StereoOnCommand.java
+ Command.main.commands.stereo.StereoOnCommand
+Command/main/SimpleRemoteControl.java
+ Command.main.SimpleRemoteControl
+Command/CommandMain.java
+ Command.CommandMain
+Command/main/control/RemoteControl.java
+ Command.main.control.RemoteControl
