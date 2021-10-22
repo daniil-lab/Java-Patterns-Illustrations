@@ -92,3 +92,15 @@ Command/CommandMain.java
  Command.CommandMain
 Command/main/control/RemoteControl.java
  Command.main.control.RemoteControl
+Adapter/turkey/Turkey.java
+ Adapter.turkey.Turkey
+Adapter/turkey/WildTurkey.java
+ Adapter.turkey.WildTurkey
+Adapter/AdapterMain.java
+ Adapter.AdapterMain
+Adapter/duck/Duck.java
+ Adapter.duck.Duck
+Adapter/duck/MallardDuck.java
+ Adapter.duck.MallardDuck
+Adapter/adapters/TurkeyAdapter.java
+ Adapter.adapters.TurkeyAdapter
