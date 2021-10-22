@@ -1,7 +1,8 @@
 package Command;
 
 import Command.main.SimpleRemoteControl;
-import Command.main.commands.LightOnCommand;
+import Command.main.commands.light.Light;
+import Command.main.commands.light.LightOnCommand;
 
 /*
     Паттерн Команда инкапсулирует запрос в виде
@@ -15,7 +16,7 @@ public class CommandMain {
     public static void main(String[] args) {
         SimpleRemoteControl control = new SimpleRemoteControl();
 
-        LightOnCommand lightOnCommand = new LightOnCommand(false);
+        LightOnCommand lightOnCommand = new LightOnCommand(new Light());
 
         control.setCommand(lightOnCommand);
         control.buttonWasPressed();
